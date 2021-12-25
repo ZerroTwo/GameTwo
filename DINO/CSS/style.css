@@ -1,0 +1,10 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+.playground {
+   display: block;
+   width: 900px;
+   margin: 0 auto;
+   padding: 10px;
+}
